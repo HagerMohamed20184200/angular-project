@@ -1,0 +1,59 @@
+.navbar-brand{
+  
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+}
+
+.nav-item{
+    padding-right: 6px;
+    padding-left: 6px;
+        
+}
+
+.nav-link{
+
+    font-size: medium;
+  
+
+}
+
+.carousel carousel-dark slide{
+min-height: 50%;
+}
+
+.shadow{
+    color: darkgrey !important;
+}
+
+.card{
+padding: 30px 12px;
+margin-top:  45px;
+margin-bottom: 45px;
+margin-right: 12px;
+margin-left: 12px;
+border: 2px solid black;
+
+
+}
+
+
+.p{
+text-align: center;
+font-size:x-large;
+font-weight: bolder;
+
+
+}
+
+.f{
+text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+font-style: italic;
+font-size: medium;
+font-weight: bolder;
+
+
+
+
+}
